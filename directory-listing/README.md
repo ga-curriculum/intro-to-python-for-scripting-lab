@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intro to Python Lab</span>
+  <span class="headline">Intro to Python for Scripting Lab</span>
   <span class="subhead">Directory Listing</span>
 </h1>
 

@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Intro to Python Lab</span>
+  <span class="headline">Intro to Python for Scripting Lab</span>
 </h1>
 
 ## About

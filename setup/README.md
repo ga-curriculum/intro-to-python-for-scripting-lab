@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intro to Python Lab</span>
+  <span class="headline">Intro to Python for Scripting Lab</span>
   <span class="subhead">Setup</span>
 </h1>
 
@@ -17,12 +17,12 @@ cd ~/code/ga/labs
 
 tktk Use the below instructions if students will need starter code from a separate module to complete the lab exercise. If they do not, delete this section and all of its contents.
 
-Fork the [Intro to Python Lab Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab-starter-code) repository.
+Fork the [Intro to Python for Scripting Lab Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-for-scripting-lab-starter-code) repository.
 
 Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/intro-to-python-lab-starter-code.git intro-to-python-lab
+git clone https://git.generalassemb.ly/<your-username>/intro-to-python-for-scripting-lab-starter-code.git intro-to-python-for-scripting-lab
 ```
 
 Replace `<your-username>` (including the `<` and `>`) with your General Assembly GitHub Enterprise username before you run this command.
@@ -31,22 +31,22 @@ Replace `<your-username>` (including the `<` and `>`) with your General Assembly
 
 tktk Use the below instructions if students do not need starter code from a separate module to complete the lab exercise. If they do, delete this section and all of its contents.
 
-Make a new repository on [GitHub](https://github.com/) named `intro-to-python-lab`.
+Make a new repository on [GitHub](https://github.com/) named `intro-to-python-for-scripting-lab`.
 
 Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-git clone https://github.com/<your-username>/intro-to-python-lab.git
+git clone https://github.com/<your-username>/intro-to-python-for-scripting-lab.git
 ```
 
 Replace `<your-username>` (including the `<` and `>`) with your GitHub username before you run this command.
 
 ### Launch in VS Code
 
-Next, `cd` into the cloned directory, <code class="filepath">intro-to-python-lab</code>:
+Next, `cd` into the cloned directory, <code class="filepath">intro-to-python-for-scripting-lab</code>:
 
 ```bash
-cd intro-to-python-lab
+cd intro-to-python-for-scripting-lab
 ```
 
 Open the contents of the directory in VS Code:

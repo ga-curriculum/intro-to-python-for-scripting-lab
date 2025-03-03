@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Intro to Python Lab</span>
+  <span class="headline">Intro to Python for Scripting Lab</span>
 </h1>
 
 ## About
@@ -30,8 +30,8 @@ Estimated time to complete core lab exercise: **60 min**
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-lab/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-for-scripting-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-python-for-scripting-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 

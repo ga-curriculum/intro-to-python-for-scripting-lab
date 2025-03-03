@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Intro to Python Lab"
+  friendlyName = "Intro to Python for Scripting Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "intro-to-python-lab"
+  name = "intro-to-python-for-scripting-lab"
   type = "Lab"
 }
 
