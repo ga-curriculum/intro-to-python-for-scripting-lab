@@ -23,24 +23,16 @@ calculator = new Template.Microlesson {
   videoUrl = ""
 }
 
-fileManipulation = new Template.Microlesson {
-  friendlyName = "File Manipulation"
-  dirName = "file-manipulation"
+controlFlowExercises = new Template.Microlesson {
+  friendlyName = "Control Flow Exercises"
+  dirName = "control-flow-exercises"
   type = "Content"
   videoUrl = ""
 }
 
-directoryListings = new Template.Microlesson {
-  friendlyName = "Directory Listings"
-  dirName = "directory-listing"
+numberGuessingGame = new Template.Microlesson {
+  friendlyName = "Number Guessing Game"
+  dirName = "number-guessing-game"
   type = "Content"
   videoUrl = ""
 }
-
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
-  type = "Level Up Content"
-  videoUrl = ""
-}
-

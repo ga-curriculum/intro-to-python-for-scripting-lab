@@ -15,5 +15,8 @@ By the end of this lab, you will be able to:
 - [Setup](../setup/README.md)
 - [Hello, Python!](../hello-python/README.md)
 - [Calculator](../calculator/README.md)
-- [File Manipulation](../file-manipulation/README.md)
-- [Directory Listings](../directory-listing/README.md)
+- [Control Flow Exercises](../control-flow-exercises/README.md)
+
+## Level Up
+
+🚀 [Number Guessing Game](../number-guessing-game/README.md)

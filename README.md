@@ -15,14 +15,14 @@ By the end of this lab, you will be able to:
 - [Setup](./setup/README.md)
 - [Hello, Python!](./hello-python/README.md)
 - [Calculator](./calculator/README.md)
-- [File Manipulation](./file-manipulation/README.md)
-- [Directory Listings](./directory-listing/README.md)
+- [Control Flow Exercises](./control-flow-exercises/README.md)
+- [Number Guessing Game](./number-guessing-game/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- [Intro to Python Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/Intro-to-Python/canvas-landing-pages/itb.html)
+- Intro to Python for Scripting
 
 ### Time to complete
 

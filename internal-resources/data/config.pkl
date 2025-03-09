@@ -21,35 +21,29 @@ repo {
 courses {
   new {
     // Do not remove this fallback course!
-    name = "fallback"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.helloPython
-      mls.calculator
-      mls.fileManipulation
-      mls.directoryListings
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
-    }
-  }
-
-    new {
-    // Do not remove this fallback course!
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
       mls.setup
       mls.helloPython
       mls.calculator
-      mls.fileManipulation
-      mls.directoryListings
+      mls.controlFlowExercises
       // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
+      (mls.numberGuessingGame) {
         type = "Level Up content"
       }
+    }
+  }
+  new {
+    // Do not remove this fallback course!
+    name = "fallback"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.helloPython
+      mls.calculator
+      mls.controlFlowExercises
+      mls.numberGuessingGame
     }
   }
 }
