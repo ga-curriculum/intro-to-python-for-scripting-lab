@@ -3,6 +3,8 @@
     <span class="subhead">Number Guessing Game</span>
   </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to implement a number guessing game using Python, incorporating control flow concepts such as loops and conditional statements.
+
 ## Solve another problem!
 
 Build a number guessing game in Python, continuing your work in the <code class="filepath">control-flow.py</code> script.
