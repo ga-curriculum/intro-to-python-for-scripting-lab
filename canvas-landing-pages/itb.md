@@ -5,10 +5,9 @@
 
 ## About
 
-By the end of this lab, you will be able to:
+In this lab, you will write Python scripts that utilize variables, user input/output, operators, branching, looping, and functions.
 
-- Write Python scripts that utilize variables, user input/output, operators, branching, looping, and functions.
-- Solve real-world problems and automate tasks using Python scripting.
+You'll also solve real-world problems using Python scripting.
 
 ## Content
 
