@@ -22,4 +22,4 @@ You'll also solve real-world problems using Python scripting.
 
 ## Rubric
 
-[Rubric](./rubrics/itb.md)
+[Rubric](../rubrics/itb.md)

@@ -20,4 +20,4 @@ You'll also solve real-world problems using Python scripting.
 
 ## Rubric
 
-[Rubric](./rubrics/fallback.md)
+[Rubric](../rubrics/fallback.md)
