@@ -17,6 +17,11 @@ You'll also solve real-world problems using Python scripting.
 - [Control Flow Exercises](./control-flow-exercises/README.md)
 - [Number Guessing Game](./number-guessing-game/README.md)
 
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
+
 ## Internal
 
 ### Prerequisites

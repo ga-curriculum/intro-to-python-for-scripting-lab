@@ -17,3 +17,7 @@ You'll also solve real-world problems using Python scripting.
 - [Calculator](../calculator/README.md)
 - [Control Flow Exercises](../control-flow-exercises/README.md)
 - [Number Guessing Game](../number-guessing-game/README.md)
+
+## Rubric
+
+[Rubric](./rubrics/fallback.md)

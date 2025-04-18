@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intro to Bash Scripting Lab</span>
+  <span class="headline">Intro to Python for Scripting Lab</span>
   <span class="subhead">Rubric</span>
 </h1>
 

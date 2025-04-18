@@ -19,3 +19,7 @@ You'll also solve real-world problems using Python scripting.
 ## Level Up
 
 🚀 [Number Guessing Game](../number-guessing-game/README.md)
+
+## Rubric
+
+[Rubric](./rubrics/itb.md)
